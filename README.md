@@ -1,1 +1,1 @@
-"# Image-classification-with-Pytorch" 
+## Image-classification-with-Pytorch, inspired by NeuralNine
